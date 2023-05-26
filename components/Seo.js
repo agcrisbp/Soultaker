@@ -25,7 +25,7 @@ export default function Seo({ page }) {
                             alt: `${title}`,
                         },
                     ],
-                    site_name: 'It Never Ends by Aghea',
+                    site_name: 'Soultaker by Aghea',
                 }}
                 twitter={{
                     handle: '@agcrisbp',

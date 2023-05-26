@@ -2,19 +2,19 @@ export default {
     openGraph: {
         type: 'website',
         locale: 'en_IE',
-        title: 'It Never Ends by Aghea',
+        title: 'Soultaker by Aghea',
         url: 'https://works.aghea.site/',
-        description: 'This song was made for gear testing and to honour the work of the great band, Bring Me The Horizon.',
+        description: 'This album is a compilation of Bon-Bon Soultaker songs from: "Deathless Guitar" (2012), "Scents of Death" (2012), "Doubt" (2013), "Tuhan, Manusia, Malaikat, & Iblis" (2013).',
         locale: 'en_EN',
-        keywords: 'it never ends, bring me the horizon, sempiternal, happy song, music, metal, rock, indonesian, indonesia, musisi, lagu',
+        keywords: 'soultaker, bon bon soultaker, bon-bon soultaker, mati tak bertuhan, music, metal, rock, indonesian, indonesia, musisi, lagu, power metal',
         images: [
             {
                 width: 1200,
                 height: 630,
-                url: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/It%20Never%20Ends.png',
+                url: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/Soultaker.jpg',
             },
         ],
-        site_name: 'Agcrismanto Budhi Praswastyka',
+        site_name: 'Soultaker by Aghea',
     },
     twitter: {
         handle: '@agcrisbp',

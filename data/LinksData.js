@@ -84,37 +84,51 @@ const webLinks = [
     // releases section
     {
         title: 'Apple Music',
-        url: 'https://apple.co/3l5wRXV',
+        url: 'https://apple.co/3LdkC6d',
         type: 'releases',
         icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/app.png',
         on: true
     },
     {
         title: 'Spotify',
-        url: 'https://spoti.fi/3yvqLDl',
+        url: 'https://spoti.fi/3ZIA6DJ',
         type: 'releases',
         icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/spo.png',
         on: true
     },
     {
         title: 'YouTube Music',
-        url: 'https://bit.ly/ITE-YTM',
+        url: 'https://bit.ly/Soultaker-YTM',
         type: 'releases',
         icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/ytm.png',
         on: true
     },
     {
         title: 'Deezer',
-        url: 'https://bit.ly/ITE-Deezer',
+        url: 'https://bit.ly/Soultaker-Deezer',
         type: 'releases',
         icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/deezer.png',
         on: true
     },
     {
         title: 'Amazon Music',
-        url: 'https://amzn.to/3YGUKTq',
+        url: 'https://amzn.to/3LlRSs8',
         type: 'releases',
         icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/amazon.png',
+        on: true
+    },
+    {
+        title: 'Tidal',
+        url: 'https://bit.ly/43rtbQB',
+        type: 'releases',
+        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/tdl.png',
+        on: true
+    },
+    {
+        title: 'Napster',
+        url: 'https://bit.ly/438Ny5x',
+        type: 'releases',
+        icon: 'https://indfy.me/img/default-icon.png',
         on: true
     },
 ];

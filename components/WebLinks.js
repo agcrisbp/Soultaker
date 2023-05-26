@@ -43,7 +43,7 @@ const Links = () => {
 
 
 
-  // Collect all links filter by type - social, project, nft and other etc=
+  // Collect all links filter by type - social, project, nft and  etc=
   // get data for social section
   const social = allLinks.filter((el) => {
     return el.type === "social" && el.on
@@ -55,8 +55,8 @@ const Links = () => {
   });
 
   // Get data for other section
-  const others = allLinks.filter((el) => {
-    return el.type === "other" && el.on
+  const releases = allLinks.filter((el) => {
+    return el.type === "releases" && el.on
   });
 
   return (
@@ -140,7 +140,7 @@ const Links = () => {
 
             {/* Other Section */}
             <LinkSection>
-              <h3>{others[0].type}</h3>
+              <h3>{releases[0].type}</h3>
               {/* BioData.js > newProduct == true */}
               {/* New Section will render once newProduct == true */}
               {(newProduct) ? <NewSection>
@@ -154,7 +154,7 @@ const Links = () => {
               }
               {/* End Biodata.js, You can move this section anywhere */}
               {
-                others.map((i) => {
+                releases.map((i) => {
                   return (
                     <a href={i.url} key={i.title} target="_blank" rel="noreferrer">
                       <LinkBox>

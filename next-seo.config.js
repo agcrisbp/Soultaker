@@ -2,23 +2,23 @@ export default {
     openGraph: {
         type: 'website',
         locale: 'en_IE',
-        title: 'Agcrismanto Budhi Praswastyka',
-        url: 'https://agcrisbp.github.io/',
-        description: 'A programmer who aware of the tiny moments in a persons life that reveal greater truths.',
+        title: 'It Never Ends by Aghea',
+        url: 'https://works.aghea.site/',
+        description: 'This song was made for gear testing and to honour the work of the great band, Bring Me The Horizon.',
         locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, indonesian programmer, programmer indonesia, agcrismanto budhi praswastyka, agcrisbp, illlustrations, indonesian illustrator, ui designer indonesia, 3dicons, uiprint, indonesian ui designer, design indonesia, overlayz, nft art',
+        keywords: 'it never ends, bring me the horizon, sempiternal, happy song, music, metal, rock, indonesian, indonesia, musisi, lagu',
         images: [
             {
                 width: 1200,
                 height: 630,
-                url: 'https://v2.amp-cdn.net/images/480468a77ad0a1a6b1b2e773d9371249e13e3ca2aff757',
+                url: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/It%20Never%20Ends.png',
             },
         ],
         site_name: 'Agcrismanto Budhi Praswastyka',
     },
     twitter: {
         handle: '@agcrisbp',
-        site: 'agcrisbp.github.io',
+        site: 'works.aghea.site',
         cardType: 'summary_large_image',
     },
 };

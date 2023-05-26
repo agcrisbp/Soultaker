@@ -27,7 +27,7 @@ const webLinks = [
         url: 'https://github.com/agcrisbp',
         type: 'social',
         icon: '/github.svg',
-        on: true
+        on: false
     },
     {
         title: 'Youtube',
@@ -41,14 +41,14 @@ const webLinks = [
         url: 'https://www.linkedin.com/in/agcrisbp/',
         type: 'social',
         icon: '/linkedin.svg',
-        on: true
+        on: false
     },
     {
         title: 'Tiktok',
         url: 'https://www.tiktok.com/@agcrisbp',
         type: 'social',
         icon: '/tiktok.svg',
-        on: true
+        on: false
     },
     {
         title: 'Post',
@@ -64,50 +64,57 @@ const webLinks = [
         url: 'https://github.com/agcrisbp/link-v2/generate',
         type: 'install',
         icon: '/use.png',
-        on: true
+        on: false
     },
     {
         title: 'Deploy on Vercel',
         url: 'https://vercel.com/import/git?s=https://github.com/agcrisbp/link-v2',
         type: 'install',
         icon: '/vercel.svg',
-        on: true
+        on: false
     },
     {
         title: 'Documentation',
         url: 'https://blog.agcrisbp.my.id/docs/how-to-start',
         type: 'install',
         icon: '/doc.png',
-        on: true
+        on: false
     },
 
-    // Other section
+    // releases section
     {
-        title: 'Website',
-        url: 'https://agcrisbp.my.id/',
-        type: 'other',
-        icon: '/web.svg',
+        title: 'Apple Music',
+        url: 'https://apple.co/3l5wRXV',
+        type: 'releases',
+        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/app.png',
         on: true
     },
     {
-        title: 'Blog',
-        url: 'https://blog.agcrisbp.my.id/',
-        type: 'other',
-        icon: '/blog.png',
+        title: 'Spotify',
+        url: 'https://spoti.fi/3yvqLDl',
+        type: 'releases',
+        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/spo.png',
         on: true
     },
     {
-        title: 'Songs',
-        url: 'https://works.aghea.site/',
-        type: 'other',
-        icon: '/ios.svg',
+        title: 'YouTube Music',
+        url: 'https://bit.ly/ITE-YTM',
+        type: 'releases',
+        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/ytm.png',
         on: true
     },
     {
-        title: 'Buy Me a Coffee',
-        url: 'https://www.buymeacoffee.com/agcrisbp',
-        type: 'other',
-        icon: '/bmc.png',
+        title: 'Deezer',
+        url: 'https://bit.ly/ITE-Deezer',
+        type: 'releases',
+        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/deezer.png',
+        on: true
+    },
+    {
+        title: 'Amazon Music',
+        url: 'https://amzn.to/3YGUKTq',
+        type: 'releases',
+        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/amazon.png',
         on: true
     },
 ];

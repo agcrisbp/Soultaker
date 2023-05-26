@@ -8,7 +8,7 @@ export default function Home() {
     title: seoData.openGraph.title,
     excerpt: 'home',
     slug: '/',
-    coverImage: 'https://v2.amp-cdn.net/images/480468a77ad0a1a6b1b2e773d9371249e13e3ca2aff757'
+    coverImage: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/It%20Never%20Ends.png'
   };
   return (
     <>

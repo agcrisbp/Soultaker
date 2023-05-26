@@ -25,11 +25,11 @@ export default function Seo({ page }) {
                             alt: `${title}`,
                         },
                     ],
-                    site_name: 'Agcrismanto Budhi Praswastyka',
+                    site_name: 'It Never Ends by Aghea',
                 }}
                 twitter={{
                     handle: '@agcrisbp',
-                    site: 'agcrisbp.github.io',
+                    site: 'works.aghea.site',
                     cardType: 'summary_large_image',
                 }}
                 additionalMetaTags={[{

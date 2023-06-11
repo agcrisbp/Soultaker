@@ -85,50 +85,50 @@ const webLinks = [
     {
         title: 'Apple Music',
         url: 'https://apple.co/3LdkC6d',
-        type: 'releases',
-        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/app.png',
+        type: 'Soultaker',
+        icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/app.png?token=GHSAT0AAAAAACDCZHPJ26FJOXLGYLLDDB6YZEFN4WA',
         on: true
     },
     {
         title: 'Spotify',
         url: 'https://spoti.fi/3ZIA6DJ',
-        type: 'releases',
-        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/spo.png',
+        type: 'Soultaker',
+        icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/spo.png?token=GHSAT0AAAAAACDCZHPIZZSFMADAP3JPDFX2ZEFOAFA',
         on: true
     },
     {
         title: 'YouTube Music',
         url: 'https://bit.ly/Soultaker-YTM',
-        type: 'releases',
-        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/ytm.png',
+        type: 'Soultaker',
+        icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/ytm.png?token=GHSAT0AAAAAACDCZHPJIXEM2XKT2E3COESQZEFN7WQ',
         on: true
     },
     {
         title: 'Deezer',
         url: 'https://bit.ly/Soultaker-Deezer',
-        type: 'releases',
-        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/deezer.png',
+        type: 'Soultaker',
+        icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/deezer.png?token=GHSAT0AAAAAACDCZHPJSXHCZTL5KOCJWYRGZEFN5UQ',
         on: true
     },
     {
         title: 'Amazon Music',
         url: 'https://amzn.to/3LlRSs8',
-        type: 'releases',
-        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/amazon.png',
+        type: 'Soultaker',
+        icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/d2307c2ad071ce43231347c9a29f3a82aee59843/images/amazon.png?token=GHSAT0AAAAAACDCZHPIXXSRMA7YTZLIRKXEZEFNY6Q',
         on: true
     },
     {
         title: 'Tidal',
         url: 'https://bit.ly/43rtbQB',
-        type: 'releases',
-        icon: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/tdl.png',
+        type: 'Soultaker',
+        icon: 'https://raw.githubusercontent.com/agcrisbp/aghea/main/images/tdl.png?token=GHSAT0AAAAAACDCZHPJYEHZITWAMWOWDFMWZEFN7OA',
         on: true
     },
     {
         title: 'Napster',
         url: 'https://bit.ly/438Ny5x',
-        type: 'releases',
-        icon: 'https://indfy.me/img/default-icon.png',
+        type: 'Soultaker',
+        icon: 'https://seeklogo.com/images/N/Napster-logo-2CC59E76F3-seeklogo.com.png',
         on: true
     },
 ];

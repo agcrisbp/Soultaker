@@ -4,7 +4,7 @@ const bioData = [
         name: 'Soultaker',
         username: 'Bon-Bon Soultaker',
         url: 'https://aghea.site',
-        avatar: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/Soultaker.jpg',
+        avatar: '/Soultaker.jpg',
         nftAvatar: false,
         description: 'This album is a compilation of Bon-Bon Soultaker songs from: "Deathless Guitar" (2012), "Scents of Death" (2012), "Doubt" (2013), "Tuhan, Manusia, Malaikat, & Iblis" (2013).',
         descShow: true,

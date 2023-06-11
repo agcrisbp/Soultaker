@@ -8,7 +8,7 @@ export default function Home() {
     title: seoData.openGraph.title,
     excerpt: 'home',
     slug: '/',
-    coverImage: 'https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/Soultaker.jpg'
+    coverImage: '/Soultaker.jpg'
   };
   return (
     <>

@@ -26,7 +26,7 @@ function MyApp({ Component, pageProps }) {
             <ThemeProvider theme={theme}>
                 <Head>
                     <meta content="width=device-width, initial-scale=1" name="viewport" />
-                    <link rel="icon" href="https://raw.githubusercontent.com/agheamusic/agheamusic.github.io/main/images/Soultaker.jpg" />
+                    <link rel="icon" href="/Soultaker.jpg" />
 
                 </Head>
                 <GlobalStyle />

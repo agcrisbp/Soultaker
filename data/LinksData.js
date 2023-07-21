@@ -13,7 +13,7 @@ const webLinks = [
         url: 'https://instagram.com/adarkerkindofday',
         type: 'social',
         icon: '/insta.svg',
-        on: true
+        on: false
     },
     {
         title: 'Medium',

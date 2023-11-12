@@ -3,7 +3,7 @@ const webLinks = [
     // All social profile
     {
         title: 'Twitter',
-        url: 'https://twitter.com/agcrisbp',
+        url: 'https://twitter.com/crisminolog',
         type: 'social',
         icon: '/twitter.svg',
         on: true

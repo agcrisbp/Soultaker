@@ -124,13 +124,6 @@ const webLinks = [
         icon: '/tdl.png',
         on: true
     },
-    {
-        title: 'Napster',
-        url: 'https://bit.ly/438Ny5x',
-        type: 'releases',
-        icon: 'https://seeklogo.com/images/N/Napster-logo-2CC59E76F3-seeklogo.com.png',
-        on: true
-    },
 ];
 
 export default webLinks;

@@ -98,14 +98,14 @@ const webLinks = [
     },
     {
         title: 'YouTube Music',
-        url: 'https://bit.ly/releases-YTM',
+        url: 'https://bit.ly/Soultaker-YTM',
         type: 'releases',
         icon: '/ytm.png',
         on: true
     },
     {
         title: 'Deezer',
-        url: 'https://bit.ly/releases-Deezer',
+        url: 'https://bit.ly/Soultaker-Deezer',
         type: 'releases',
         icon: '/deezer.png',
         on: true
